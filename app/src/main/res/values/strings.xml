@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">My SignIn App</string>
+  <string name="action_logout">Sign out</string>
+</resources>
